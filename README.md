@@ -13,4 +13,4 @@ Our data goes through different stages:
 
 ## Clean and Preprocess Data
 
-- clea_preprocess.ipynb documents how the raw data was cleaned and combined together in one dataframe.
+- clean_preprocess.ipynb documents how the raw data was cleaned and combined together in one dataframe.
