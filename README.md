@@ -4,7 +4,7 @@ This repository showcases how data was collected, cleaned, processed and organiz
 
 Our data goes through different stages:
 1. Collect Raw Data
-2. Clean and Preproces data
+2. Clean and Preprocess data
 
 ## Collecting Data
 
