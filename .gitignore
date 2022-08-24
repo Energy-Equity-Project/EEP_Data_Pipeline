@@ -1,4 +1,6 @@
 .DS_Store
 api_keys/
 data/
+clean_data/
+EEP_dataset/
 .ipynb_checkpoints/
