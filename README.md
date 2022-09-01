@@ -1,11 +1,8 @@
 # Energy Equity Project Data Pipeline
 
 ## Relevant Files
-The eep.zip file contains 2 files:
-- eep_dataset.csv
-   - Holds the EEP dataset (includes all variables). Census tracts can be identified by the GEOID column which follows the US Census Bureau's structure.
-- eep_codebook.csv
-   - An excel file describing variables in the EEP dataset.
+- eep_final_500k_simplified.zip
+   - This is a shapefile and holds the EEP dataset (includes all variables). Census tracts can be identified by the GEOID column which follows the US Census Bureau's structure.
 
 This repository showcases how data was collected, cleaned, processed and organized for EEP's mapping tool.
 
