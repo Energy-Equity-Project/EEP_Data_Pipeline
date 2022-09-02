@@ -1,10 +1,12 @@
 # Energy Equity Project Data Pipeline
 
-## Relevant Files
-- eep_final_500k_simplified.zip
-   - This is a shapefile and holds the EEP dataset (includes all variables). Census tracts can be identified by the GEOID column which follows the US Census Bureau's structure.
-
 This repository showcases how data was collected, cleaned, processed and organized for EEP's mapping tool.
+
+## Relevant Files
+- eep_final_data.csv.zip
+   - This is a CSV of the EEP dataset (includes all variables except for map geometries). Census tracts can be identified by the GEOID column which follows the US Census Bureau's structure.
+- eep_final_simplified.json.zip
+   - This is a GeoJSON and holds the EEP dataset (includes all variables). Census tracts can be identified by the GEOID column which follows the US Census Bureau's structure.
 
 Our data goes through different stages:
 1. Collect Raw Data
